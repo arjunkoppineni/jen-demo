@@ -7,7 +7,7 @@ pipeline {
 
             steps {
 
-                git 'https://github.com/arjunkoppineni/jen-demo.git'
+                git url:'https://github.com/arjunkoppineni/jen-demo.git', branch:'main'
 
             }
 
