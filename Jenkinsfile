@@ -3,7 +3,7 @@ pipeline {
 
     stages {
 
-        stage('Clone Repository') {
+        stage('Clone the Repository') {
 
             steps {
 
