@@ -18,7 +18,7 @@ pipeline {
             steps {
 
                 sh 'echo "Building the application..."'
-                sh 'python script.py'
+                sh 'python3 script.py'
 
             }
 
